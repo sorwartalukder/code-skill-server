@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.postimg.cc/28zMLrf5/css.png",
+        "title": "HTML and CSS",
+        "details": [
+            "1. Duration 1.5-2 month",
+            "2. Total videos 30",
+            "3. Total projects 10",
+            "4. Total assignment 4",
+            "5. Beginner friendly course",
+            "6. Intermediate"
+        ],
+        "rating": "4.5",
+        "price": "20"
+    },
+    {
+        "id": 2,
+        "picture": "https://i.postimg.cc/vZC0hdCf/js.png",
+        "title": "JavaScript",
+        "details": [
+            "1. Duration 5-6 month",
+            "2. Total videos 150",
+            "3. Total projects 40",
+            "4. Total assignment 15",
+            "5. Beginner friendly course",
+            "6. Advance"
+        ],
+        "rating": "4.9",
+        "price": "100"
+    },
+    {
+        "id": 3,
+        "picture": "https://i.postimg.cc/ydsXp6jg/react-js.png",
+        "title": "React Js",
+        "details": [
+            "1. Duration 4 month",
+            "2. Total videos 80",
+            "3. Total projects 25",
+            "4. Total assignment 10",
+            "5. Beginner friendly course",
+            "6. Intermediate"
+        ],
+        "rating": "4.5",
+        "price": "50"
+    },
+    {
+        "id": 4,
+        "picture": "https://i.postimg.cc/ryhCgkrs/c-and-c.jpg",
+        "title": "C and C++",
+        "details": [
+            "1. Duration 4 month",
+            "2. Total videos 70",
+            "3. Total projects 30",
+            "4. Total assignment 12",
+            "5. Beginner friendly course",
+            "6. Intermediate"
+        ],
+        "rating": "4.5",
+        "price": "40"
+    },
+    {
+        "id": 5,
+        "picture": "https://i.postimg.cc/0N8bL6gs/python.png",
+        "title": "Python",
+        "details": [
+            "1. Duration 5 month",
+            "2. Total videos 100",
+            "3. Total projects 35",
+            "4. Total assignment 14",
+            "5. Beginner friendly course",
+            "6. Advance"
+        ],
+        "rating": "4.9",
+        "price": "60"
+    },
+    {
+        "id": 6,
+        "picture": "https://i.postimg.cc/Y9P0Gbvr/node-js.jpg",
+        "title": "Node js",
+        "details": [
+            "1. Duration 5 month",
+            "2. Total videos 100",
+            "3. Total projects 60",
+            "4. Total assignment 18",
+            "5. Beginner friendly course",
+            "6. Intermediate"
+        ],
+        "rating": "4.6",
+        "price": "70"
+    }
+]
