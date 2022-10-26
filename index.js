@@ -15,6 +15,11 @@ app.get('/courses/:id', (req, res) => {
     const course = courses.find(c => c.id == id)
     res.send(course)
 })
+app.get('/course/access/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courses.find(c => c.id == id)
+    res.send(course)
+})
 
 app.get('/', (req, res) => {
     res.send('Hello World!')
